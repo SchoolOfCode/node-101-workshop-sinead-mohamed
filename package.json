@@ -1,0 +1,19 @@
+{
+  "name": "mns_nodes",
+  "version": "1.0.0",
+  "description": "mohamed and sinead node intro practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/node-101-workshop-sinead-mohamed.git"
+  },
+  "author": "Mohamed and Sinead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-sinead-mohamed/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-sinead-mohamed#readme"
+}

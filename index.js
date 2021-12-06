@@ -1,23 +1,9 @@
 /* sinead: node v16.13.1; npm: 8.1.2
    mohamed: node v16.13.1; npm: 8.1.2  */
 
-let myCollection = [
-    {
-        name: "School of Code mug",
-        count: 1,
-        whatILike: "It has my cute pixel character on it!"
-    },
-    {
-        name: "School of Code hat",
-        count: 2,
-        whatILike: "An often overlooked fashion accessory"
-    }, 
-    {
-        name: "School of Code pillow",
-        count: 1,
-        whatILike: "Eat. Sleep. Code. Repeat :)"
-    }
-];
+   import myCollection from "./collection.js";
+   
+   //import { myCollection } from "./collection.js"
 
 function describeItem(item){
     // fyi - can access item.name, item.count, item.whatILike
